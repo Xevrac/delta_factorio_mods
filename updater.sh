@@ -23,7 +23,7 @@ if [[ "${ENABLE_MODS}" == "1" ]]; then
     fi
 fi
 
-version="1.2.0-"
+version="1.2.0-77fe383"
 
 if [[ "${ENABLE_MODS}" == "1" ]]; then
     echo "[Mod Manager] Daemon detects server mode is 1."
