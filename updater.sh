@@ -6,7 +6,7 @@
 
 #!/bin/bash
 
-version="1.1.0-"
+version="1.1.0-68cce04"
 
 if [[ "${ENABLE_MODS}" == "1" ]]; then
     echo "[Mod Manager] Daemon detects server mode is 1."
